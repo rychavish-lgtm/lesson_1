@@ -1,0 +1,27 @@
+.card {
+    border: 2px solid black;
+    width: 40vw;
+    height: 59vw;
+    margin: 5rem;
+    padding: 2rem;
+    text-align: center;
+    direction: rtl;
+    display: flex;
+   flex-wrap: wrap;
+}
+.c{
+ width: 5.3vw;
+ height: 10vw;
+
+}
+.d{
+ width: 1vw;
+ height: 1vw;
+ text-align: center;
+ font-size: medium;
+ margin: 5vh;
+ 
+}
+.sh{
+    background-color: rgb(255, 248, 181);
+}
